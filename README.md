@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codesnish
 - 👀 I’m interested in AI chips, Kernel Developement & Linux Device Drivers
-- 🌱 I’m currently learning how to build a Virtual Platform
+- 🌱 I’m currently learning how to build a Virtual Platform & Linux Device Drivers
 - 💞️ I’m looking to collaborate on open source C/C++ projects
 - 📫 You can reach me at codesnish@gmail.com
 
