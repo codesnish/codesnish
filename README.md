@@ -1,7 +1,7 @@
 
 ### My Interests
 - Systemc, TLM2.0
-- System Verilog, UVM, Vivado
+- System Verilog, Formal Verification, UVM
 - CUDA & PTX parallel programming
 - Computer Architecture (pipeline, coherency)
 
